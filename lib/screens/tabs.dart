@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:meals_app/Providers/favoirites_provider.dart';
-import 'package:meals_app/Providers/meals_provider.dart';
+// import 'package:meals_app/Providers/meals_provider.dart';
 import 'package:meals_app/screens/categories.dart';
 import 'package:meals_app/screens/filters.dart';
 import 'package:meals_app/screens/meals.dart';
