@@ -19,7 +19,7 @@ This project is a Flutter application that I developed to create a multi-screen 
 To get started with the Meals App, follow these steps:
 
 1. Clone the Repository:
-> git clone [[https://github.com/your-username/meals-app.git](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App.git)](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App.git)
+> git clone https://github.com/Nithish-Sri-Ram/Flutter-Meals-App.git
 2. Navigate to the Project Directory:
 > cd meals-app
 3. Install Dependencies:
