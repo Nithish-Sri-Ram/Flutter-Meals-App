@@ -27,5 +27,17 @@ To get started with the Meals App, follow these steps:
 4. Run the App:
 > flutter run
 
+## Images
+![Screenshot_1709447548](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/e9925c38-39ef-4bb5-89ef-2dfc9a57cd7e)
+![Screenshot_1709448791](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/c4c73da9-24f0-40c5-9199-45c6624cf440)
+![Screenshot_1709448782](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/0a33679b-3251-4d0a-8db0-05fea74c87d2)
+![Screenshot_1709448777](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/0f73ee80-e5c4-46d2-be70-eeefafa6cf23)
+![Screenshot_1709448472](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/bbbc78f9-bf8c-4785-9d28-c395201599d0)
+![Screenshot_1709453280](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/bcb372c2-22d8-4d7b-8e7e-1c206668a784)
+![Screenshot_1709453250](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/9d51e37a-88fa-43db-8029-9fc9a7c87c2d)
+![Screenshot_1709453287](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/e860cbb1-1465-4ffb-a001-be45c3705a31)
+![Screenshot_1709453560](https://github.com/Nithish-Sri-Ram/Flutter-Meals-App/assets/115037539/2284eb9c-61da-426c-bfee-e10a451afe21)
+
+
 ## Additional Notes
 Feel free to explore the codebase and customize the app according to your preferences. If you encounter any issues or have suggestions for improvement, please don't hesitate to create an issue or pull request.
